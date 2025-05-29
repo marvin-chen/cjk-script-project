@@ -1,4 +1,4 @@
-# CJK (Chinese, Japanese, Korean) Script Project
+# CJK Script Project - Work in Progress
 
 This project consists of two phases to explore CJK (Chinese, Japanese, Korean) scripts using computer vision and visualization techniques.
 
